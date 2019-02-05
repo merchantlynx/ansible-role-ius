@@ -1,0 +1,26 @@
+---
+dependencies: []
+
+galaxy_info:
+  role_name: ius
+  author: "Brian O'Reilly"
+  description: Configure firewalld for RHEL7 and CentOS7
+  company: "Merchant Lynx Services"
+  license: "license (MIT)"
+  min_ansible_version: 2.4
+  platforms:
+    - name: EL
+      versions:
+        - 7
+        - 6
+        - 5
+  galaxy_tags:
+    - centos
+    - redhat
+    - rhel
+    - ius
+    - yum
+    - repo
+    - repository
+    - packaging
+    - system
